@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "mode": "synthetic_demo",
+  "source_revision": "f7c9492e2183e3e85f2952c0dbc4cd1f6feae6f6",
+  "directions": [
+    "land",
+    "houses",
+    "apartments",
+    "business",
+    "auctions",
+    "map",
+    "invest",
+    "pro",
+    "api"
+  ]
+}

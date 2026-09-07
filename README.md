@@ -2,6 +2,6 @@
 
 [Open the demo](https://w6214767-hash.github.io/reestrscan-preview/)
 
-Static demonstration build only. All parcels, restrictions and auctions are synthetic. No backend, private project documents, credentials or customer data are included.
+Nine product directions. Land, map and auctions use synthetic demonstration data. Other modules show their planned scope. Business identifier checking is local checksum validation only.
 
-The main application source is maintained separately. This is not the production service at reestrscan.ru.
+Only compiled static assets are published here. No backend, private project documents, credentials or customer records are included. This is not the production service at reestrscan.ru.
